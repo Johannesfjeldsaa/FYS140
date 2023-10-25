@@ -5,7 +5,6 @@ import datetime
 
 import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
-from matplotlib import patheffects
 import pandas as pd
 
 def read_and_preprocess(filepath):
